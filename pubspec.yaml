@@ -16,7 +16,8 @@ dependencies:
   clock: ^1.0.1
   collection: ^1.14.11
   crypto: ^2.1.2
-  pointycastle: ^1.0.1
+  pointycastle:
+    git: https://github.com/fajarvm/pc-dart.git
 
 dev_dependencies:
   test: ^1.6.4
